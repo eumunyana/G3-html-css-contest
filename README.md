@@ -1,5 +1,5 @@
 # G3-html-css-contest
-A website showcasing the basic skills you learned in HTML and CSS.
+A website showcasing the basic skills we learned in HTML and CSS.
  
  A concierge website that will enable locals, ex-pats, and tourists to look for different services available in your country of choice (preferably the country of origin of one or the majority of your teammates) The services offered must be under the following categories:
 
