@@ -50,6 +50,52 @@ nav ul li a {
     margin-right: 2%;
 }
 
+/* About section styles */
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+#about {
+  background-color: #f7f7f7;
+  padding: 40px 20px;
+}
+
+#about h2 {
+  text-align: center;
+  color: #6b0c66;
+  margin-bottom: 20px;
+}
+
+#about p {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.team-member {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.team-member img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.team-member h3 {
+  color: #6b0c66;
+  margin-bottom: 5px;
+}
+
+.team-member p {
+  color: #011305;
+  margin-bottom: 0;
+}
+
 
 # contactpage
 body {
